@@ -12,20 +12,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.owner = ['94713595045']
+global.premium = ['94713595045']
+global.ownernomer = '94713595045'
+global.ownername = 'Ravindu Fdo 🅡🅝VuFi Bot 🤖🅡🅝'
+global.botname = '🎭VuFi Bot 🤖🅡🅝🎭 v1.0.0'
+global.footer = ' VuFi Bot 🤖🅡🅝'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri Lanka, Western Province, Colombo'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.myweb = 'VuFi Bot 🤖🅡🅝'
+global.packname = 'VuFi Bot 🤖🅡🅝'
+global.author = 'Ravindu Fdo 🅡🅝 '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🍔','🌭','🍕']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
