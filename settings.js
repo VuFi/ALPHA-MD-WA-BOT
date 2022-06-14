@@ -15,7 +15,7 @@ global.APIKeys = {
 global.owner = ['94713595045']
 global.premium = ['94713595045']
 global.ownernomer = '94713595045'
-global.ownername = 'Ravindu Fdo 🅡🅝VuFi Bot 🤖🅡🅝'
+global.ownername = 'Ravindu Fdo🅡🅝'
 global.botname = '🎭VuFi Bot 🤖🅡🅝🎭 v1.0.0'
 global.footer = ' VuFi Bot 🤖🅡🅝'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
@@ -52,7 +52,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/djt.jpg')
+global.thumb = fs.readFileSync('https://i.ibb.co/N1DfbGF/Whats-App-Image-2021-12-18-at-12-13-04-AM.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
