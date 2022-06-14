@@ -26,7 +26,7 @@ global.packname = 'VuFi Bot 🤖🅡🅝'
 global.author = 'Ravindu Fdo 🅡🅝 '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🍔','🌭','🍕']
-global.sp = '🚢'
+global.sp = '😵‍💫'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
